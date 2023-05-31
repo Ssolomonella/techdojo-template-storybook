@@ -1,6 +1,6 @@
 import React from 'react';
 import { Story, Meta } from '@storybook/react';
-import { InputField, InputFieldProps } from './InputField';
+import { InputField, InputFieldProps } from '../../components/InputField';
 
 export default {
   title: 'TaxCalculator/InputField',
